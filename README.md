@@ -7,7 +7,7 @@ A Sass mixin for creating (100% vegan) hamburger icons.
 
 ## Install
 
-Download the [_vegan-burger.scss file](_vegan-burger.scss)
+Download the [_vegan-burger.scss](_vegan-burger.scss) file.
 
 ## Usage
 
