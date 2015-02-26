@@ -1,7 +1,7 @@
 Sass Vegan Burger
 ===========
 
-A Sass mixin for creating vegan hamburger icons.
+A Sass mixin for creating (100% vegan) hamburger icons.
 
 [Demo &raquo;](http://joren.co/sass-burger/)
 
